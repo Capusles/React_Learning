@@ -1,19 +1,3 @@
-/*
- * @Descripttion: 
- * @version: 
- * @Author: coding
- * @Date: 2023-04-17 15:25:04
- * @LastEditors: Please set LastEditors
- * @LastEditTime: 2023-04-17 15:31:36
- */
-/*
- * @Descripttion: 
- * @version: 
- * @Author: coding
- * @Date: 2021-09-17 22:30:03
- * @LastEditors: 
- * @LastEditTime: 2023-04-17 15:15:26
- */
 import React,{Component,Fragment} from "react";
 
 class Xiaojiejie extends Component{
@@ -21,7 +5,7 @@ class Xiaojiejie extends Component{
         super(props)
         this.state={
             inputValue:'',
-            list:['基础按摩','精油推背','精油推背']
+            list:['123','精油推背','精油推背']
         }
     }
     render() {
