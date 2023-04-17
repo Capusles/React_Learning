@@ -5,7 +5,7 @@ class Xiaojiejie extends Component{
         super(props)
         this.state={
             inputValue:'',
-            list:['基础按摩','精油推背','3333']
+            list:['123','精油推背','3333']
         }
     }
     render() {
